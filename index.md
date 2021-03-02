@@ -4,7 +4,9 @@ Intro
 
 ## Dashboard 1 - Flourish
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/5433541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/5433541">
+  
+  <script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Dashboard 2 - Tableau
 
@@ -34,11 +36,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlohaTim/ZedRun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/5433541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+https://public.flourish.studio/visualisation/5433541/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Aloha Analytics
 
 You can use the [editor on GitHub](https://github.com/AlohaTim/ZedRun/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/5433541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Markdown
 
